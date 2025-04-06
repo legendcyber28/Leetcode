@@ -36,4 +36,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/legendcyber28/Leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
