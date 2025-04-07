@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/legendcyber28/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/legendcyber28/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/legendcyber28/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/legendcyber28/Leetcode/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/legendcyber28/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/legendcyber28/Leetcode/tree/master/0048-rotate-image) |
 | [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/legendcyber28/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
