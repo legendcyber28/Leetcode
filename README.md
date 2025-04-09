@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/legendcyber28/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/legendcyber28/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/legendcyber28/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/legendcyber28/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
 | ------- |
