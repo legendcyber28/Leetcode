@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/legendcyber28/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0498-diagonal-traverse](https://github.com/legendcyber28/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/legendcyber28/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/legendcyber28/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@
 | [0016-3sum-closest](https://github.com/legendcyber28/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
 | [1253-sort-the-matrix-diagonally](https://github.com/legendcyber28/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
+| [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/legendcyber28/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -77,4 +80,8 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/legendcyber28/Leetcode/tree/master/0498-diagonal-traverse) |
+## Greedy
+|  |
+| ------- |
+| [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 <!---LeetCode Topics End-->
