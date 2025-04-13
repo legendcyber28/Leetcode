@@ -33,6 +33,7 @@
 | [0015-3sum](https://github.com/legendcyber28/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/legendcyber28/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
 | [1253-sort-the-matrix-diagonally](https://github.com/legendcyber28/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Dynamic Programming
@@ -70,12 +71,14 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/legendcyber28/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
