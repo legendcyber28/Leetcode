@@ -7,12 +7,17 @@ public:
         {
             for(int j = i+1; j<=n-2; j++)
             {
-                for(int k = j+1; k<n; k++)
+                // thoda sa optimize hua hai because pehle hi niche wala check kar lenge if ye hua to karunga varna nahi karumga
+                
+                if(abs(arr[i] - arr[j]) <= a) 
                 {
-                    if(abs(arr[i] - arr[j]) <= a && abs(arr[j] - arr[k]) <= b && abs(arr[i] - arr[k]) <= c )
+                    for(int k = j+1; k<n; k++)
+                {
+                   if(abs(arr[j] - arr[k]) <= b && abs(arr[i] - arr[k]) <= c )
                     {
                         count++;
                     }
+                }
                 }
             }
         }
