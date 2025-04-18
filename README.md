@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/legendcyber28/Leetcode/tree/master/0048-rotate-image) |
+| [0263-ugly-number](https://github.com/legendcyber28/Leetcode/tree/master/0263-ugly-number) |
 | [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
