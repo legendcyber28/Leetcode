@@ -85,6 +85,7 @@
 | [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/legendcyber28/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1619-path-crossing](https://github.com/legendcyber28/Leetcode/tree/master/1619-path-crossing) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/legendcyber28/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 ## Simulation
 |  |
 | ------- |
