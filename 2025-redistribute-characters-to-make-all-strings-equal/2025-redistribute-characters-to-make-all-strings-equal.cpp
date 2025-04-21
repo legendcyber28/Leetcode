@@ -2,18 +2,17 @@ class Solution {
 public:
     bool makeEqual(vector<string>& words) {
         int n = words.size();
-        unordered_map<char,int> mp;
+        vector<int> arr(26,0);
         for(string &word : words)
         {
             for(char &ch : word)
             {
-                mp[ch]++;
+                arr[ch - 'a']++;
             }
         }
 
-        for(auto &it : mp)
+        for(auto &freq : arr)
         {
-            int freq = it.second;
             if(freq % n != 0)
             {
                 return false;
