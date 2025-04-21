@@ -10,14 +10,13 @@ public:
                 arr[ch - 'a']++;
             }
         }
+         
+        // using lambda stl
+        
+        auto lambda = [&] (int freq) {
+            return freq%n ==0 ;
+        };
 
-        for(auto &freq : arr)
-        {
-            if(freq % n != 0)
-            {
-                return false;
-            }
-        }
-        return true;
+        return all_of(begin(arr), end(arr), lambda);
     }
 };
