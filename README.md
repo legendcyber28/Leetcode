@@ -76,6 +76,7 @@
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
 | [1619-path-crossing](https://github.com/legendcyber28/Leetcode/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/legendcyber28/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/legendcyber28/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -86,6 +87,7 @@
 | [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/legendcyber28/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1619-path-crossing](https://github.com/legendcyber28/Leetcode/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/legendcyber28/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/legendcyber28/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Simulation
