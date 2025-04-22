@@ -3,17 +3,17 @@ public:
     int maxLengthBetweenEqualCharacters(string s) {
         int n = s.size();
         int result = -1;
-        // better solution as use of map which reduces the time complecity
-        unordered_map<char,int> mp;
+        // Instead of using the map we can use simply an array of size 26 
+        vector<int> count(26,-1);
         for(int i = 0; i<n; i++)
         {
             char ch  = s[i];
-            if(mp.find(ch)==mp.end())
+            if(count[ch-'a']==-1)
             {
-                mp[ch] = i;
+                count[ch-'a'] = i;
             }
             else{
-                result = max(result, i- mp[ch]-1);
+                result = max(result, i- count[ch-'a']-1);
             }
         }
         return result;
