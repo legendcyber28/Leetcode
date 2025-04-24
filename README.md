@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/legendcyber28/Leetcode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/legendcyber28/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/legendcyber28/Leetcode/tree/master/0263-ugly-number) |
 | [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Enumeration
@@ -113,4 +114,12 @@
 |  |
 | ------- |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/legendcyber28/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/legendcyber28/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
