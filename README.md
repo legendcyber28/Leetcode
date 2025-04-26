@@ -82,6 +82,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/legendcyber28/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1619-path-crossing](https://github.com/legendcyber28/Leetcode/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/legendcyber28/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/legendcyber28/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/legendcyber28/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1619-path-crossing](https://github.com/legendcyber28/Leetcode/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/legendcyber28/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -115,6 +117,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/legendcyber28/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Bit Manipulation
 |  |
@@ -124,4 +127,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/legendcyber28/Leetcode/tree/master/0231-power-of-two) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/legendcyber28/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
