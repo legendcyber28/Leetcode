@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/legendcyber28/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/legendcyber28/Leetcode/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/legendcyber28/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1019-squares-of-a-sorted-array](https://github.com/legendcyber28/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/legendcyber28/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1656-count-good-triplets](https://github.com/legendcyber28/Leetcode/tree/master/1656-count-good-triplets) |
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -28,6 +29,7 @@
 | [0042-trapping-rain-water](https://github.com/legendcyber28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/legendcyber28/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/legendcyber28/Leetcode/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/legendcyber28/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/legendcyber28/Leetcode/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/legendcyber28/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/legendcyber28/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/legendcyber28/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
