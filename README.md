@@ -19,6 +19,7 @@
 | [1656-count-good-triplets](https://github.com/legendcyber28/Leetcode/tree/master/1656-count-good-triplets) |
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/legendcyber28/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/legendcyber28/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/legendcyber28/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -90,6 +91,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/legendcyber28/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/legendcyber28/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/legendcyber28/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -122,6 +124,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/legendcyber28/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/legendcyber28/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
