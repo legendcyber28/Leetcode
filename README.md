@@ -66,6 +66,7 @@
 | [0231-power-of-two](https://github.com/legendcyber28/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/legendcyber28/Leetcode/tree/master/0263-ugly-number) |
 | [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3055-maximum-odd-binary-number](https://github.com/legendcyber28/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/legendcyber28/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/legendcyber28/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [3055-maximum-odd-binary-number](https://github.com/legendcyber28/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Simulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0135-candy](https://github.com/legendcyber28/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/legendcyber28/Leetcode/tree/master/0455-assign-cookies) |
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [3055-maximum-odd-binary-number](https://github.com/legendcyber28/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/legendcyber28/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
 |  |
