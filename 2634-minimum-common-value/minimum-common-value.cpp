@@ -1,32 +1,29 @@
 class Solution {
 public:
     int getCommon(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int,int> mp;
-
-        for(int &num : nums1)
+        int m = nums1.size();
+        int n = nums2.size();
+        
+        
+        int i = 0 ;  //nums1
+        int j = 0;   // nums2
+        while(i<m && j<n)
         {
-            mp[num] = 1;
-
-        }
-        for(int &num : nums2)
-        {
-           if( mp[num] ==1 )
-           {
-            mp[num] = 2;
-           }
-            
-        }
-        int smallest = -1;
-        for(auto& [num,freq]:mp)
-        {
-            if(freq == 2)
+            if(nums1[i]==nums2[j])
             {
-               if(smallest == -1 || num < smallest)
-               {
-                  smallest = num;
-               }
+                return nums1[i];
+
+            }
+            else if(nums1[i]<nums2[j])
+            {
+                i++;
+            }
+            else
+            {
+                j++;
             }
         }
-        return smallest;
+        return -1;
+
     }
 };
