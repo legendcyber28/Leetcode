@@ -1,22 +1,20 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        int m = s.length();
-        int n = t.length();
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
-        int i = 0;
-        int j = 0;
-
-        while(i<m && j<n)
+        unordered_map<char,int> mp;
+        for(char &ch: s)
         {
-            if(s[i] != t [j])
-            {
-                return t[j];
-            }
-            i++;
-            j++;
+            mp[ch]++;
         }
-        return t.back();
+        for(char &ch: t)
+        {
+            mp[ch]--;
+            if(mp[ch]<0)
+            {
+                return ch;
+            }
+        }
+        return ' ';
+        
     }
 };
