@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/legendcyber28/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1236-n-th-tribonacci-number](https://github.com/legendcyber28/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0048-rotate-image](https://github.com/legendcyber28/Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/legendcyber28/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/legendcyber28/Leetcode/tree/master/0263-ugly-number) |
+| [1236-n-th-tribonacci-number](https://github.com/legendcyber28/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
 | [3055-maximum-odd-binary-number](https://github.com/legendcyber28/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Enumeration
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/legendcyber28/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/legendcyber28/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
