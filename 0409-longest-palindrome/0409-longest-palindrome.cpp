@@ -1,30 +1,23 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        unordered_map<char,int> mp;
-        bool check = false;
+        unordered_set<char> st;
         int result = 0;
-        for(auto &it : s)
+        for(char &ch : s)
         {
-            mp[it]++;
-        }
-        for(auto &it : mp)
-        {
-            int freq = it.second;
-            if(freq % 2 ==0)
+            if(st.count(ch))
             {
-                result+=freq;
+                result+=2;
+                st.erase(ch);
             }
-            if(freq % 2!=0)
+            else
             {
-                result += freq-1;  // add the even part of the frequencies
-                check = true;
-                
+                st.insert(ch);
             }
         }
-        if(check)
+        if(!st.empty())
         {
-            result+=1;
+            result++;  //making odd length palindrome
         }
         return result;
     }
