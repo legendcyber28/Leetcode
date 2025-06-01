@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/legendcyber28/Leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/legendcyber28/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/legendcyber28/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/legendcyber28/Leetcode/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/legendcyber28/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1019-squares-of-a-sorted-array](https://github.com/legendcyber28/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -29,12 +30,14 @@
 | [0031-next-permutation](https://github.com/legendcyber28/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/legendcyber28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/legendcyber28/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/legendcyber28/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/legendcyber28/Leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/legendcyber28/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/legendcyber28/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/legendcyber28/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +45,7 @@
 | [0016-3sum-closest](https://github.com/legendcyber28/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/legendcyber28/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/legendcyber28/Leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/legendcyber28/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/legendcyber28/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -89,6 +93,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/legendcyber28/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/legendcyber28/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/legendcyber28/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/legendcyber28/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/legendcyber28/Leetcode/tree/master/0409-longest-palindrome) |
 | [1619-path-crossing](https://github.com/legendcyber28/Leetcode/tree/master/1619-path-crossing) |
