@@ -18,6 +18,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/legendcyber28/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/legendcyber28/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1656-count-good-triplets](https://github.com/legendcyber28/Leetcode/tree/master/1656-count-good-triplets) |
+| [1720-crawler-log-folder](https://github.com/legendcyber28/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/legendcyber28/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/legendcyber28/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/legendcyber28/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1720-crawler-log-folder](https://github.com/legendcyber28/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0409-longest-palindrome](https://github.com/legendcyber28/Leetcode/tree/master/0409-longest-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/legendcyber28/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1619-path-crossing](https://github.com/legendcyber28/Leetcode/tree/master/1619-path-crossing) |
+| [1720-crawler-log-folder](https://github.com/legendcyber28/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/legendcyber28/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/legendcyber28/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
