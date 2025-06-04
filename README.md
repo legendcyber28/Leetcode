@@ -34,6 +34,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/legendcyber28/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/legendcyber28/Leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/legendcyber28/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/legendcyber28/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/legendcyber28/Leetcode/tree/master/1656-count-good-triplets) |
 | [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/legendcyber28/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/legendcyber28/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3055-maximum-odd-binary-number](https://github.com/legendcyber28/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/legendcyber28/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
 |  |
 | ------- |
