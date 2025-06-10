@@ -108,6 +108,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/legendcyber28/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/legendcyber28/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/legendcyber28/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3055-maximum-odd-binary-number](https://github.com/legendcyber28/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/legendcyber28/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/legendcyber28/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/legendcyber28/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/legendcyber28/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/legendcyber28/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/legendcyber28/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
