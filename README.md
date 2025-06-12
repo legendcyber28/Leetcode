@@ -24,6 +24,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/legendcyber28/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/legendcyber28/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/legendcyber28/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/legendcyber28/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
