@@ -78,6 +78,7 @@
 | [0263-ugly-number](https://github.com/legendcyber28/Leetcode/tree/master/0263-ugly-number) |
 | [1236-n-th-tribonacci-number](https://github.com/legendcyber28/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2507-number-of-common-factors](https://github.com/legendcyber28/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/legendcyber28/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3055-maximum-odd-binary-number](https://github.com/legendcyber28/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Enumeration
 |  |
@@ -137,6 +138,7 @@
 | [0409-longest-palindrome](https://github.com/legendcyber28/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/legendcyber28/Leetcode/tree/master/0455-assign-cookies) |
 | [2117-find-original-array-from-doubled-array](https://github.com/legendcyber28/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/legendcyber28/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3055-maximum-odd-binary-number](https://github.com/legendcyber28/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/legendcyber28/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
